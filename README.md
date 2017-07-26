@@ -1,4 +1,4 @@
-FaceCat is cover channel Proof of Concept in Facebook. It is not actively maintained, so please not that it may require some HTML parsing changes. Any pull request with an update is more than welcome.
+FaceCat is cover channel Proof of Concept in Facebook. It is not actively maintained, so please note that it may require some HTML parsing changes. Any pull request with an update is more than welcome.
 It works similar to the widely known tool NetCat, but 
 
 ```
