@@ -1,3 +1,5 @@
+**ARCHIVED! This tool was developed years ago as a proof of concept and it has not been actively mantained, so it may not work with current Facebook platform. Anyway, it is kept public for educational purposes.**
+
 FaceCat is cover channel Proof of Concept in Facebook. It is not actively maintained, so please note that it may require some HTML parsing changes. Any pull request with an update is more than welcome.
 It works similar to the widely known tool NetCat, but 
 
